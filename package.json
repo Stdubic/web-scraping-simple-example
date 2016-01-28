@@ -1,0 +1,10 @@
+{
+  "name"         : "distant-job-snippet",
+  "version"      : "0.0.1",
+  "description"  : "Scrape .",
+  "main"         : "node.js",
+  "author"       : "Stevan Aleksic",
+  "dependencies" : {
+    "phantomjs"    : "latest"
+  }
+}
